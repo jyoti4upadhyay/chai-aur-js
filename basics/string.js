@@ -33,6 +33,9 @@ const url="https://hitesh.com/hitesh%20chaudhary" //if we create space in url th
 console.log(url.replace('%20','_'))
 console.log(url.includes('sundar'))
 
+const gname= new String('hi-te-sh')
+console.log(gname.split('-'));
+
 
 
 
