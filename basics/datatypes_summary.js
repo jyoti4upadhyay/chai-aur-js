@@ -2,7 +2,7 @@
 // how to store data in memo and access it on that basis datatypes are 2
 // Primitive & non primitive 
 
-/*primitive(call by value) means all changes aur operation done on copy
+/*primitive(call by value)(copy krke use krte hai) means all changes aur operation done on copy
 of it not in memo*/
 //String,Number,Boolean,null,undefined,symbol(unique)BigInt
 //dynamically type:variable types determined at runtime,not compile time 
@@ -20,7 +20,7 @@ const bigNumber=34567834547338n //convert into bigInt
 
 
 /*non primitive(reference type)ye value woh hai jinka  reference memo mai directly allocate hota hai */
-//Array, Obejects,Function 
+//Array, Objects,Function 
 const heros=["shaktiman","naagraj","doga"]
 //object
 {
@@ -44,8 +44,7 @@ console.log(typeof bigNumber);
  boolean=>"boolean"
  number=>"number"
  string=>"string"
- array,object:object
- function=>function/object
- null=>object
+ array,object:object/function
+ function=>function (objectfunction)
 */
 
