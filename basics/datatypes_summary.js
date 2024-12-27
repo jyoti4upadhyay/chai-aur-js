@@ -1,3 +1,4 @@
+
 // how to store data in memo and access it on that basis datatypes are 2
 // Primitive & non primitive 
 
