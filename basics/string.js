@@ -8,7 +8,7 @@ const repoCount=50
 const gamename=new String('hites-hhh')
 
 //console.log(gamename[0]);
-//console.log(gamename.__proto__);//prototype in string 
+//console.log(gamename.__proto__);//prototype in string(use console to see prototype//object
 
 //console.log(gamename.length);
 //prtotype(methods and function)

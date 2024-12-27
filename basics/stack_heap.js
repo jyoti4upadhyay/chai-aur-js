@@ -14,6 +14,7 @@ let userone={
     upi:"user@ybl"
 }
 let usertwo=userone // heap se value milegi toh change krne par memo mai change hoga 
+// userone and usertwo have same refrence;
 usertwo.email="user@gmail.com"
 
 console.log(userone.email);
