@@ -2,10 +2,10 @@ const name="hitesh"
 const repoCount=50
 
 //console.log(name + repocount + "value"); outdated
-//console.log(`hello my name is ${name.toUpperCase()} and my repo count is ${repoCount}`);
+// console.log(`hello my name is ${name.toUpperCase()} and my repo count is ${repoCount}`);//string interpullation
 //string declare
 
-const gamename=new String('hites-hhh')
+const gamename=new String('hites-hhh')//string is a object
 
 //console.log(gamename[0]);
 //console.log(gamename.__proto__);//prototype in string(use console to see prototype//object
